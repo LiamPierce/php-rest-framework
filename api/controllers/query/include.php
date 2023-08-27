@@ -1,0 +1,6 @@
+<?
+
+namespace Platform\Query;
+
+
+?>
